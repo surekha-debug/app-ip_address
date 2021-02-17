@@ -106,7 +106,7 @@ function main() {
  * @param {string} ipv4 - An IPv4 address in dotted-quad format.
  * @return {*} (ipv6Address) - An IPv6 address string or null if a run-time problem was detected.
  */
-*
+
 /*
   Call main to run it.
 */
